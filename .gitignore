@@ -1,0 +1,30 @@
+# Python environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+data/raw/*.parquet
+data/processed/*.parquet
+data/processed/feature_engineered/*.parquet
+
+# Model artifacts
+models/*.joblib
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+*.joblib
