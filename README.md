@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlightWise AI ✈️
 
 **FlightWise AI** is a machine learning-powered flight delay prediction system that analyzes historical flight data (2018–2022) to predict whether a flight is likely to be delayed by 15 minutes or more.
@@ -27,3 +28,4 @@
 - Interactive flight prediction interface
 
 **Objective:** To leverage machine learning techniques to identify potential flight delays and provide useful insights that support better travel planning and decision-making.
+=======
